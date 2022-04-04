@@ -35,17 +35,18 @@ https://choosealicense.com/licenses/mit/
 
 MIT License
 
-Copyright (c) [2022] [Niccolo Eck]
+Copyright (c) [2022] [NiccoloEck]
 
 
 ### Contribution
-Niccolosaurus (me)
+niccolosaurus (Niccolo Eck)
 
 ### Test-Instructions
 n/a
 
 ### Questions
-[Github Profie](https://github.com/niccolosaurus)
-nicco.eck@gmail.com
+[Github Profie](https://github.com/niccolosaurus)</br>
 
-https://niccolosaurus.github.io/code-quiz/
+nicco.eck@gmail.com</br>
+
+https://niccolosaurus.github.io/code-quiz/</br>
