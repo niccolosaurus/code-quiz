@@ -25,19 +25,18 @@ Download or Clone the repo, and open in a code editor to start.
 
 ### Usage
 
-![Starting-Point](./assets/Starting-Point.PNG)
-![Timer-Starts](./assets/Timer-Starts.PNG)
-![Final-Score](./assets/Final-Score.PNG)
+![Starting-Point](./assets/Pics/Starting-Point.PNG)
+![Timer-Starts](./assets/Pics/Timer-Starts.PNG)
+![Final-Score](./assets/Pics/Final-Score.PNG)
 
 ### License
 
 MIT
 https://choosealicense.com/licenses/mit/
 
-
 ### Contribution
 
-niccolosaurus (Niccolo Eck)
+[Niccolo Eck](https://github.com/niccolosaurus)
 
 ### Test-Instructions
 
@@ -46,7 +45,6 @@ n/a
 ### Questions
 
 [Github Profie](https://github.com/niccolosaurus)</br>
-nicco.eck@gmail.com</br>
-https://www.linkedin.com/in/niccolo-eck-195714223/ </br>
-
-https://niccolosaurus.github.io/code-quiz/</br>
+[Email](nicco.eck@gmail.com)</br>
+[LinkedIn](https://www.linkedin.com/in/niccolo-eck-195714223/)</br>
+[Repo Link](https://niccolosaurus.github.io/code-quiz/)</br>
